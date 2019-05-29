@@ -5,7 +5,7 @@
 <ul>
 <li>Clase NumComplejo</li>
 <li>Main ProgramaComplejos</li>
-<li>Incluye __*@javadoc__* </li>
+<li>Incluye @javadoc</li>
 
 
 </ul>
