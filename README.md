@@ -2,13 +2,12 @@
 ## Proyecto Complejos
 ### Números complejos
     Realiza una serie de operaciones con números complejos.
-    <ol>
-      <li>Suma</li>
-      <li>Resta</li>
-      <li>Multiplicación</li>
-      <li>División</li>
-      <li>Módulo</li>
-    </ol>
+     - Suma
+     - Resta
+     - Multiplicación
+     - División
+     - Módulo
+    
 #### Contenido:
 <ul>
   
