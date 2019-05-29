@@ -2,11 +2,11 @@
 ## Proyecto Complejos
 ### Números complejos
     Realiza una serie de operaciones con números complejos.
-     - Suma
-     - Resta
-     - Multiplicación
-     - División
-     - Módulo
+     1. Suma
+     2. Resta
+     3. Multiplicación
+     4. División
+     5. Módulo
     
 #### Contenido:
 <ul>
