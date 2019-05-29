@@ -10,10 +10,9 @@
      5. Módulo
     
 #### Contenido:
-<ul>
+
   
-<li>Clase NumComplejo</li>
-<li>Main ProgramaComplejos</li>
-<li>Incluye @javadoc</li>
+* Clase NumComplejo
+* Main ProgramaComplejos
+* Incluye @javadoc
   
-</ul>
