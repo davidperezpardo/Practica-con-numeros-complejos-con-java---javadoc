@@ -16,5 +16,11 @@
 * Main ProgramaComplejos
 * Incluye @javadoc 
 
+Ejecución del programa:
+
 ![Ejecuccion del programa](https://github.com/davidperezpardo/Practica-con-numeros-complejos-con-java---javadoc/blob/master/Ejecucion.PNG)
   
+
+Captura del @javadoc
+
+![Captura javadoc](https://github.com/davidperezpardo/Practica-con-numeros-complejos-con-java---javadoc/blob/master/javadoc.PNG)
