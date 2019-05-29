@@ -1,4 +1,4 @@
-# Practica para la asignatura de EDD usando **@javadoc**
+# Practica para la asignatura de EDD usando @javadoc
 ##Proyecto Complejos
 ###Números complejos
 <ul>
