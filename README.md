@@ -16,5 +16,5 @@
 * Main ProgramaComplejos
 * Incluye @javadoc 
 
-(/blob/master/Ejecucion.PNG)
+(blob/master/Ejecucion.PNG)
   
