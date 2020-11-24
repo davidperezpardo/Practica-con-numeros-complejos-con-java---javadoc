@@ -29,5 +29,5 @@ Captura del @javadoc
 
 
 
-@Author: David Pérez Pardo - 1º Desarrollo de aplicaciones web - IES Campanillas PTA Málaga(Málaga).
-@Email:<perpar.david@gmail.com>
+Author: David Pérez Pardo - 1º Desarrollo de aplicaciones web - IES Campanillas PTA Málaga(Málaga).
+Email:<perpar.david@gmail.com>
